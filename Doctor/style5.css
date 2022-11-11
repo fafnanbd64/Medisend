@@ -1,0 +1,45 @@
+﻿
+      *  {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.PD {
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-position:center;
+
+  font-family: sans-serif;
+}
+body h2{
+  color:  linen;
+}
+.menu-bar{
+  background: linen;
+  text-align: center;
+}
+.menu-bar ul{
+  display: inline-flex;
+  list-style: none;
+  color: #ffffff;
+}
+.menu-bar ul li{
+  width: 120px;
+  margin: 15px;
+  padding: 15px;
+}
+.menu-bar ul li a{
+  text-decoration: none;
+  color: #310d6b;
+}
+.active, .menu-bar ul li:hover {
+ background-color: #e9d6e7;
+ border-radius: 3px;
+}
+.PD2 {
+  font-family: "Times New Roman";
+  font-size: 80 px;
+  text-align: center;
+  color: white;
+
+}

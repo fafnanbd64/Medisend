@@ -1,0 +1,8 @@
+RABITA JUNHAI            18101259
+SAMIR RAHMAN             18101130
+FARIZ BIN KAMAL          18101228
+MD ESADUL HAQUE          17301148
+SAIARA ZERIN NIBRAS      18101251
+
+
+Since, you told us to stop working on the project there are still some unfinished prospects. We were not able to establish a proper connection in between all the php files and the front end html files.

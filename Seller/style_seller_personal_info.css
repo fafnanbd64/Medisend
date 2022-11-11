@@ -1,0 +1,21 @@
+body {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+
+#aboutus h2{
+  margin-bottom: 25px;
+}
+
+.img-wrap{
+  width: 100%;
+}
+.img-wrap img{
+  width: 100%;
+  padding: 10px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px;
+  color: #999999;
+}

@@ -1,0 +1,253 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+margin:0;
+padding:0;
+border:0;
+outline:0;
+font-size:100%;
+vertical-align:baseline;
+background:transparent;
+}
+
+body {
+line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+display:block;
+}
+
+nav ul {
+list-style:none;
+}
+
+blockquote, q {
+quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+content:'';
+content:none;
+}
+
+a {
+margin:0;
+padding:0;
+font-size:100%;
+vertical-align:baseline;
+background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+background-color:#ff9;
+color:#000;
+text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+background-color:#ff9;
+color:#000;
+font-style:italic;
+font-weight:bold;
+}
+
+del {
+text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+border-bottom:1px dotted;
+cursor:help;
+}
+
+table {
+border-collapse:collapse;
+border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+display:block;
+height:1px;
+border:0;
+border-top:1px solid #cccccc;
+margin:1em 0;
+padding:0;
+}
+
+input, select {
+vertical-align:middle;
+}
+    .shu   {
+         font-family: "Times New Roman";
+         font-size: 50px;
+         font-style: normal;
+         color: black ;
+         font-weight: 200;
+         text-align: center;
+         text-decoration:none;
+         }
+
+      a {
+          text-decoration: none;
+        }
+
+      .hagu {
+      font-family: "Times New Roman";
+      font-size: 30px;
+      font-style: italic;
+      font-weight: 100;
+      text-align: center;
+      text-decoration:none;
+      }
+      .intro
+      {
+        font-family: "Times New Roman";
+        font-size: 30px;
+        font-style: italic;
+        font-weight: 100;
+        text-align: center;
+        text-decoration:none;
+      }
+
+
+       .Cname1 {
+         color: black;
+       }
+       body {
+         background-image: url("background.jpg");
+         background-size: cover;
+         background-position:center;
+
+       }
+       .intro {
+         text-align: center;
+         font-size: 20px;
+       }
+
+      .all {
+        font-size: 50px;
+        text-align: center;
+
+      }
+
+      /* FOR DPASS */
+      body{
+        margin: 0;
+        padding: 0;
+        font-family: "Times New Roman";
+
+        background-size: cover;
+        }
+        .Loginbox {
+          width: 280px;
+          position: absolute;;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          color: white;
+        }
+
+        .Loginbox h1 {
+          color: black;
+          float: top;
+          font-size: 40px;
+          border-bottom: 4px solid;
+          margin-bottom: 40px;
+          padding: 13px 0;
+        }
+        .f {
+          padding-left: 790px;
+          padding-top: 280px;
+          font-size: 30px;
+        }
+
+        .textbox {
+          width: 100%;
+          overflow: hidden;
+          font-size: 20px;
+          padding: 8px 0;
+          margin: 8px 0;
+          border-bottom: 1px solid;
+          border-color: black;
+        }
+        .textbox input {
+          border: none;
+          outline: none;
+          background: none;
+          border-color: black;
+          color: black;
+          font-size: 18px;
+          width: 80%;
+          float: left;
+          margin: 0 10px;
+        }
+        .btn {
+          text-decoration-color: black;
+          width: 100%;
+          background: none;
+          border: 2px solid;
+          border-color: black;
+          color: white;
+          padding: 5px;
+        }
+        /* FOR PATIENT DASHBOARD */
+
+        {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.PD {
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-position:center;
+
+  font-family: sans-serif;
+}
+body h2{
+  color:  linen;
+}
+.menu-bar{
+  background: linen;
+  text-align: center;
+}
+.menu-bar ul{
+  display: inline-flex;
+  list-style: none;
+  color: #ffffff;
+}
+.menu-bar ul li{
+  width: 120px;
+  margin: 15px;
+  padding: 15px;
+}
+.menu-bar ul li a{
+  text-decoration: none;
+  color: #310d6b;
+}
+.active, .menu-bar ul li:hover {
+ background-color: #e9d6e7;
+ border-radius: 3px;
+}
+.PD2 {
+  font-family: "Times New Roman";
+  font-size: 80 px;
+  text-align: center;
+  color: white;
+
+}
